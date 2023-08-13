@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_image.png" alt="International Debt Analysis Project">
+  <img src="./imgs/banner-image.png" alt="International Debt Analysis Project">
 </div>
 
 # Analyze_International_Debt_Statistics 🌍💰
